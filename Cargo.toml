@@ -1,0 +1,6 @@
+[package]
+name = "gahu_uploader"
+version = "0.1.0"
+authors = ["YeomHyeonseop <icedmeat@gmail.com>"]
+
+[dependencies]
